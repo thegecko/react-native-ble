@@ -1,0 +1,24 @@
+{
+  "name": "react-native-ble",
+  "version": "0.0.1",
+  "description": "React Native module for Bluetooth Low Energy",
+  "homepage": "https://github.com/thegecko/react-native-ble",
+  "author": "Rob Moran <rob@thegecko.org>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thegecko/react-native-ble.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "ble",
+    "bluetooth"
+  ],
+  "bugs": {
+    "url": "https://github.com/thegecko/react-native-ble/issues"
+  },
+  "dependencies": {
+    "react-native": "^0.4.1"
+  }
+}
