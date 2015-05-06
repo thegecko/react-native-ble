@@ -10,15 +10,11 @@
     "url": "https://github.com/thegecko/react-native-ble.git"
   },
   "keywords": [
-    "react",
-    "native",
+    "react-native",
     "ble",
     "bluetooth"
   ],
   "bugs": {
     "url": "https://github.com/thegecko/react-native-ble/issues"
-  },
-  "dependencies": {
-    "react-native": "^0.4.1"
   }
 }
